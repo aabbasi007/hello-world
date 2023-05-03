@@ -4,6 +4,9 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
     <br>
+     <label for="Abubakarmd"><b>AbubakarMd</b></label>
+    <input type="text" placeholder="abubakarmd" name="Name" id="Name" required>
+    <br>
    <label for="ahtashammd"><b>ahtashammd</b></label>
     <input type="text" placeholder="md" name="Name" id="Name" required>
     <br>
